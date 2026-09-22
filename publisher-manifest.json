@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "85dffe13575578c105447c25",
+  "owner": "fqxpvfyvc",
+  "repo": "page-fed5ee742521765a2a38197c",
+  "title": "指画青藤",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fed5ee742521765a2a38197c",
+      "a": "指画青藤",
+      "b": "稳定全球clash加速器",
+      "entity": "指画青藤",
+      "brand": "指画青藤",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "270e01ee8b29a551bf66907aacc62e675fe3847b6f659744d4afe75c45e11e1a",
+      "content": {
+        "primary_entity": "指画青藤",
+        "keyword1": "指画青藤",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选合适的订阅客户端，各平台配置方式略有差异。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置指画青藤",
+          "AI_DESCRIPTION": "，套餐按流量和在线设备数分档，方便不同使用强度的人自行对比。基础版每月 100GB、可同时在线 3 台设备，适合手机与电脑轻度使用；旗舰版每月 300GB、可同时在线 5 台设备，带 IPLC 专线，对游戏和流媒体场景更友好；团队版每月 1000GB、可同时在线 20 台设备，适合多人协作或小型团队。按年付均可节省两个月费用。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量用量和订阅周期三个角度，快速找到适合自己的档位。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数挑选即可。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，按日常用量选择合适档位。",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付方案相当于节省两个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步可以走完。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "指画青藤提供多个档位的网络加速订阅，按流量和在线设备数区分，适合个人、家庭和团队使用。选择套餐后可查看对应客户端的适配说明，按文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案节省两个月费用",
+          "AI_HIGHLIGHT_3": "按设备选择对应客户端",
+          "AI_PLANS_INTRO": "基础版适合入门，旗舰版流量和设备数更宽裕，团队版面向多人高用量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由等设备是否在套餐支持的在线数量内。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按所选客户端对应文档的说明，导入订阅地址并完成连接测试。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "指画青藤加速订阅",
+          "AI_FAQ_ANSWER_1": "根据设备数量与月流量选。单人三台设备以内、流量需求不高可选基础版；需要更多设备与专线游戏加速可选旗舰版；团队多设备选团队版。",
+          "AI_FAQ_ANSWER_2": "一个订阅通常覆盖套餐规定的设备数量，基础版 3 台，旗舰版 5 台，团队版 20 台。超出时可升级套餐或调整在线设备。",
+          "AI_FAQ_ANSWER_3": "在账户内找到订阅链接或配置文件，复制到所选的客户端中导入即可。不同客户端导入方式略有差异，可参考客户端说明。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付价格更低。基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。具体可用范围随节点与地区不同，可先选基础版测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "指画青藤的套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速支持哪些套餐？",
+          "AI_FAQ_TITLE": "套餐与设备常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "blwgk.cn",
+    "host": "blwgk.cn"
+  },
+  "file_hashes": {
+    "index.html": "54c70bc35a442fe9739ab41cc16ef47de08c449f9f6b1aea4bb402c9c9acef19",
+    "sitemap.xml": "df8dff336f03f5b21239eb154326b5e75b715444d04020aea5cf616b7ee41500",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3c31697aa1349213d96917adc00e95de16b4a7a12dba9febbbcac5f5dcee642f",
+    "robots.txt": "da76d06f05d7c1d86dc30a65bf7a7e430bf697b12a4fd5e50b2f1f1c3431dee0",
+    "e0323cd8e751bb5affc36a6f0db46d1d.txt": "6e2accf8aa332cc1a3268d3cc67a4e93b12ffa8fa3605d6a5d7f0c71c941b1cb"
+  },
+  "revision": "b945d01184cc9d783de5a75ce004e987207a0f1439219db5c999c4b11c88cd17"
+}
